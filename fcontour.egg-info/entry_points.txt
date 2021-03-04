@@ -1,0 +1,3 @@
+[console_scripts]
+fcontour = fcontour.__main__:main
+
